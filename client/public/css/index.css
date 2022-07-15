@@ -1,10 +1,11 @@
+/*Background allignemnt*/
 body {
 	background-image: url("/images/campus.png");
   background-repeat: no-repeat;
   background-size: cover;
   border: 
 }
-
+/*Menu Word Customizaton*/
 #splash_title {
 	width: 100%;
   font-size: 100px;
@@ -13,7 +14,7 @@ body {
   text-shadow: 4px 4px 4px rgba(255, 255, 255);
   text-align: center;
 }
-
+/*Start button allignment*/
 .menu_button {
   background-color: rgba(255, 0, 0, 0.5);
     font-size: 28px;
@@ -22,7 +23,7 @@ body {
     text-align: center;
     user-select: none;
 }
-
+/*More allignment*/
 .background_button {
     border-radius: 12px;
     padding: 16px 20px;
